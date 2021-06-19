@@ -1,0 +1,800 @@
+[
+	{
+		"ID": "1－1",
+		"ShopName": "酒座楽縁輝",
+		"ShopAddr": "大津市馬場2-9-8(2F)",
+		"longitude": 135.8815,
+		"latitude": 35.000252
+	},
+	{
+		"ID": "1－2",
+		"ShopName": "和食さと 堅田南店",
+		"ShopAddr": "大津市今堅田2-18-1",
+		"longitude": 135.918869,
+		"latitude": 35.123508
+	},
+	{
+		"ID": "1－3",
+		"ShopName": "大戸屋フォレオ大津一里山店",
+		"ShopAddr": "大津市一里山7-1-1",
+		"longitude": 135.93364,
+		"latitude": 34.974094
+	},
+	{
+		"ID": "1－4",
+		"ShopName": "淡海料理Tovin",
+		"ShopAddr": "大津市浜大津1-4-1旧大津公会堂地下1F",
+		"longitude": 135.865021,
+		"latitude": 35.010815
+	},
+	{
+		"ID": "1－5",
+		"ShopName": "ラーメン桃李路",
+		"ShopAddr": "大津市鳥居川町8-5",
+		"longitude": 135.901749,
+		"latitude": 34.974075
+	},
+	{
+		"ID": "1－6",
+		"ShopName": "炙勘助",
+		"ShopAddr": "大津市梅林1-2-2",
+		"longitude": 135.866943,
+		"latitude": 35.003315
+	},
+	{
+		"ID": "1－7",
+		"ShopName": "和酒ダイニングRebornりぃぼーん",
+		"ShopAddr": "大津市浜大津2-1-17一番街ビル1F",
+		"longitude": 135.862625,
+		"latitude": 35.011066
+	},
+	{
+		"ID": "1－8",
+		"ShopName": "イタリアンレストラSorriso",
+		"ShopAddr": "大津市国分1-22-67",
+		"longitude": 135.895004,
+		"latitude": 34.966137
+	},
+	{
+		"ID": "1－9",
+		"ShopName": "酒仙ひむか",
+		"ShopAddr": "大津市末広町3-3",
+		"longitude": 135.863998,
+		"latitude": 35.004677
+	},
+	{
+		"ID": "1－10",
+		"ShopName": "れすとらん松喜屋",
+		"ShopAddr": "大津市唐橋町14-17",
+		"longitude": 135.903412,
+		"latitude": 34.973949
+	},
+	{
+		"ID": "1－11",
+		"ShopName": "や台ずし大津駅前町",
+		"ShopAddr": "大津市末広町2-23",
+		"longitude": 135.863846,
+		"latitude": 35.004234
+	},
+	{
+		"ID": "1－12",
+		"ShopName": "や台ずし膳所駅前町",
+		"ShopAddr": "大津市粟津町9-27",
+		"longitude": 135.900543,
+		"latitude": 34.978859
+	},
+	{
+		"ID": "1－13",
+		"ShopName": "鶴喜そば唐崎店",
+		"ShopAddr": "大津市唐崎1-23-1",
+		"longitude": 135.870895,
+		"latitude": 35.046242
+	},
+	{
+		"ID": "1－14",
+		"ShopName": "鶴喜そば和労堂店",
+		"ShopAddr": "大津市坂本本町4220",
+		"longitude": 135.852036,
+		"latitude": 35.067127
+	},
+	{
+		"ID": "1－15",
+		"ShopName": "鶴喜そば大講堂店",
+		"ShopAddr": "大津市坂本本町4220",
+		"longitude": 135.852036,
+		"latitude": 35.067127
+	},
+	{
+		"ID": "1－16",
+		"ShopName": "和食さと瀬田店",
+		"ShopAddr": "大津市一里山1-14-8",
+		"longitude": 135.92868,
+		"latitude": 34.985798
+	},
+	{
+		"ID": "1－18",
+		"ShopName": "和食さと 西大津店",
+		"ShopAddr": "大津市柳が崎4-1",
+		"longitude": 135.865463,
+		"latitude": 35.027267
+	},
+	{
+		"ID": "1－19",
+		"ShopName": "炭火焼肉千なり",
+		"ShopAddr": "大津市堅田1-2-33",
+		"longitude": 135.908524,
+		"latitude": 35.106064
+	},
+	{
+		"ID": "1－20",
+		"ShopName": "有限会社丸二果実店",
+		"ShopAddr": "大津市長等2-10-7",
+		"longitude": 135.861984,
+		"latitude": 35.009266
+	},
+	{
+		"ID": "1－21",
+		"ShopName": "Pダイニング浜大津アーカス店",
+		"ShopAddr": "大津市浜大津2-1アーカス2F",
+		"longitude": 135.862625,
+		"latitude": 35.011066
+	},
+	{
+		"ID": "1－22",
+		"ShopName": "株式会社本家つる㐂",
+		"ShopAddr": "大津市坂本4-11-40",
+		"longitude": 135.869537,
+		"latitude": 35.07056
+	},
+	{
+		"ID": "1－23",
+		"ShopName": "とりこう庵",
+		"ShopAddr": "大津市馬場2-6-18森田ビル1F",
+		"longitude": 135.880417,
+		"latitude": 35.001106
+	},
+	{
+		"ID": "1－24",
+		"ShopName": "大衆割烹じん",
+		"ShopAddr": "大津市真野2-7-50",
+		"longitude": 135.917252,
+		"latitude": 35.123646
+	},
+	{
+		"ID": "1－25",
+		"ShopName": "近江牛と近江野菜グリル漣",
+		"ShopAddr": "大津市馬場1-14-18ア-クスビル1階C号",
+		"longitude": 135.882996,
+		"latitude": 35.002998
+	},
+	{
+		"ID": "1－26",
+		"ShopName": "ラー麺鉄山靠",
+		"ShopAddr": "大津市萱野浦25-1ALTA萱野浦ビュー",
+		"longitude": 135.910675,
+		"latitude": 34.990715
+	},
+	{
+		"ID": "1－27",
+		"ShopName": "カフェ白いピアノ",
+		"ShopAddr": "大津市末広町4-2",
+		"longitude": 135.864319,
+		"latitude": 35.005306
+	},
+	{
+		"ID": "1－28",
+		"ShopName": "びっくりドンキー大津店",
+		"ShopAddr": "大津市におの浜3-1-5イオンタウン内",
+		"longitude": 135.883255,
+		"latitude": 35.00486
+	},
+	{
+		"ID": "1－29",
+		"ShopName": "サンエトワール膳所",
+		"ShopAddr": "大津市馬場2-11-8",
+		"longitude": 135.881958,
+		"latitude": 34.999096
+	},
+	{
+		"ID": "1－30",
+		"ShopName": "近江牛かね吉",
+		"ShopAddr": "大津市馬場1-10-8",
+		"longitude": 135.882187,
+		"latitude": 35.00317
+	},
+	{
+		"ID": "1－31",
+		"ShopName": "椀向八寸行楽庵",
+		"ShopAddr": "大津市萱野浦25-1",
+		"longitude": 135.910675,
+		"latitude": 34.990715
+	},
+	{
+		"ID": "1－32",
+		"ShopName": "つる家（有限会社）",
+		"ShopAddr": "大津市本丸町2-8",
+		"longitude": 135.891602,
+		"latitude": 34.992928
+	},
+	{
+		"ID": "1－33",
+		"ShopName": "酒菜わをん",
+		"ShopAddr": "大津市桜野町2-5-8ボナール由建",
+		"longitude": 135.859207,
+		"latitude": 35.025429
+	},
+	{
+		"ID": "1－34",
+		"ShopName": "湖舟",
+		"ShopAddr": "大津市石山寺3-2-37",
+		"longitude": 135.90802,
+		"latitude": 34.960758
+	},
+	{
+		"ID": "1－35",
+		"ShopName": "可和文",
+		"ShopAddr": "大津市松原町7-15",
+		"longitude": 135.902359,
+		"latitude": 34.979424
+	},
+	{
+		"ID": "1－36",
+		"ShopName": "ココス瀬田川店",
+		"ShopAddr": "大津市瀬田1-100",
+		"longitude": 135.909637,
+		"latitude": 34.97646
+	},
+	{
+		"ID": "1－37",
+		"ShopName": "日本酒BAR十八番（OHAKO)",
+		"ShopAddr": "大津市粟津町2-62JCOURT101",
+		"longitude": 135.898483,
+		"latitude": 34.979691
+	},
+	{
+		"ID": "1－38",
+		"ShopName": "あたか飯店",
+		"ShopAddr": "大津市浜大津4-7-8",
+		"longitude": 135.863449,
+		"latitude": 35.012623
+	},
+	{
+		"ID": "1－39",
+		"ShopName": "道の駅妹子の郷レストラン",
+		"ShopAddr": "大津市和邇中528",
+		"longitude": 135.904053,
+		"latitude": 35.158543
+	},
+	{
+		"ID": "1－40",
+		"ShopName": "ケンタッキーフライドチキンイオンスタイル大津京店",
+		"ShopAddr": "大津市皇子が丘3-11-1",
+		"longitude": 135.860123,
+		"latitude": 35.024506
+	},
+	{
+		"ID": "1－41",
+		"ShopName": "ブラッスリー久仁",
+		"ShopAddr": "大津市梅林1-2-25",
+		"longitude": 135.866943,
+		"latitude": 35.003315
+	},
+	{
+		"ID": "1－42",
+		"ShopName": "イマムラキッチンイルクオーレ",
+		"ShopAddr": "大津市粟津8-21",
+		"longitude": 135.900024,
+		"latitude": 34.979401
+	},
+	{
+		"ID": "1－43",
+		"ShopName": "野洲のおっさんおにぎり食堂",
+		"ShopAddr": "大津市長等2-3-40",
+		"longitude": 135.859573,
+		"latitude": 35.0089
+	},
+	{
+		"ID": "1－44",
+		"ShopName": "ぶんぷく亭",
+		"ShopAddr": "大津市粟津町7-24",
+		"longitude": 135.901535,
+		"latitude": 34.978298
+	},
+	{
+		"ID": "1－45",
+		"ShopName": "ブロッコリー",
+		"ShopAddr": "大津市中央1-6-18森井眼科ビル1F",
+		"longitude": 135.863129,
+		"latitude": 35.009853
+	},
+	{
+		"ID": "1－46",
+		"ShopName": "COCHIYA",
+		"ShopAddr": "大津市粟津町12-36",
+		"longitude": 135.898773,
+		"latitude": 34.979111
+	},
+	{
+		"ID": "1－47",
+		"ShopName": "BREZZAブレッツァ",
+		"ShopAddr": "大津市今堅田2-23-21",
+		"longitude": 135.920731,
+		"latitude": 35.122616
+	},
+	{
+		"ID": "1－48",
+		"ShopName": "京紫野",
+		"ShopAddr": "大津市日吉台1-19-8",
+		"longitude": 135.877625,
+		"latitude": 35.079952
+	},
+	{
+		"ID": "1－49",
+		"ShopName": "びっくりドンキー瀬田店",
+		"ShopAddr": "大津市瀬田1-1-1ホームセンターコーナン内",
+		"longitude": 135.91037,
+		"latitude": 34.978409
+	},
+	{
+		"ID": "1－50",
+		"ShopName": "鉄板焼喜烙亭",
+		"ShopAddr": "大津市梅林1-2-24",
+		"longitude": 135.866943,
+		"latitude": 35.003315
+	},
+	{
+		"ID": "1－51",
+		"ShopName": "やまつね",
+		"ShopAddr": "大津市今堅田3-21-14",
+		"longitude": 135.92836,
+		"latitude": 35.127014
+	},
+	{
+		"ID": "1－52",
+		"ShopName": "華いち",
+		"ShopAddr": "大津市粟津町2-55森の雫3F",
+		"longitude": 135.898483,
+		"latitude": 34.979691
+	},
+	{
+		"ID": "1－53",
+		"ShopName": "株式会社王将フードサービス堅田店",
+		"ShopAddr": "大津市本堅田4-16-8",
+		"longitude": 135.917572,
+		"latitude": 35.120327
+	},
+	{
+		"ID": "1－54",
+		"ShopName": "茶館喫茶去",
+		"ShopAddr": "大津市螢谷4-45",
+		"longitude": 135.904343,
+		"latitude": 34.969486
+	},
+	{
+		"ID": "1－55",
+		"ShopName": "中華料理石山飯店",
+		"ShopAddr": "大津市粟津町8-18",
+		"longitude": 135.900879,
+		"latitude": 34.978691
+	},
+	{
+		"ID": "1－56",
+		"ShopName": "あじ処乃味芳",
+		"ShopAddr": "大津市松原町14-15",
+		"longitude": 135.902374,
+		"latitude": 34.978168
+	},
+	{
+		"ID": "1－57",
+		"ShopName": "カレーハウスCoCo壱番屋大津堅田店",
+		"ShopAddr": "大津市本堅田5-11-1",
+		"longitude": 135.914185,
+		"latitude": 35.11652
+	},
+	{
+		"ID": "1－58",
+		"ShopName": "カレーハウスCoCo壱番屋大津におの浜店",
+		"ShopAddr": "大津市におの浜3-1-7",
+		"longitude": 135.883255,
+		"latitude": 35.00486
+	},
+	{
+		"ID": "1－59",
+		"ShopName": "カレーハウスCoCo壱番屋大津下阪本店",
+		"ShopAddr": "大津市下阪本3-5-32",
+		"longitude": 135.877258,
+		"latitude": 35.060162
+	},
+	{
+		"ID": "5－1",
+		"ShopName": "おばんざい千代菊",
+		"ShopAddr": "草津市野村2-22-13サントリーマンション102",
+		"longitude": 135.951157,
+		"latitude": 35.026447
+	},
+	{
+		"ID": "5－2",
+		"ShopName": "オールデイダイニングリバティー",
+		"ShopAddr": "草津市西大路町1-27ホテルボストンプラザ草津1F",
+		"longitude": 135.960587,
+		"latitude": 35.022236
+	},
+	{
+		"ID": "5－3",
+		"ShopName": "味彩魚㐂",
+		"ShopAddr": "草津市野路7-1-17",
+		"longitude": 135.952057,
+		"latitude": 35.000446
+	},
+	{
+		"ID": "5－4",
+		"ShopName": "ロンロヌマン",
+		"ShopAddr": "草津市渋川1-7-6LAスクエアWEST2F",
+		"longitude": 135.965637,
+		"latitude": 35.023796
+	},
+	{
+		"ID": "5－5",
+		"ShopName": "カレーハウスCoCo壱番屋草津野路店",
+		"ShopAddr": "草津市野路5-2-43",
+		"longitude": 135.951553,
+		"latitude": 35.002335
+	},
+	{
+		"ID": "5－6",
+		"ShopName": "Lo Splendore ロスプレンドーレ",
+		"ShopAddr": "草津市追分南4-5-8",
+		"longitude": 135.963501,
+		"latitude": 34.997463
+	},
+	{
+		"ID": "6－1",
+		"ShopName": "和食料理旬の味和",
+		"ShopAddr": "守山市木浜町480-1F",
+		"longitude": 135.961548,
+		"latitude": 35.09679
+	},
+	{
+		"ID": "6－2",
+		"ShopName": "珈琲館もりやま",
+		"ShopAddr": "守山市吉身1-11-46",
+		"longitude": 135.999283,
+		"latitude": 35.056568
+	},
+	{
+		"ID": "6－3",
+		"ShopName": "Turu no Omotenashi",
+		"ShopAddr": "守山市守山1-5-10-105",
+		"longitude": 135.991776,
+		"latitude": 35.054096
+	},
+	{
+		"ID": "6－4",
+		"ShopName": "Hana Cafe（ハナカフェ）",
+		"ShopAddr": "守山市三宅町125守山市民ホール内",
+		"longitude": 135.977814,
+		"latitude": 35.062504
+	},
+	{
+		"ID": "6－5",
+		"ShopName": "カレーハウスCoCo壱番屋守山播磨田店",
+		"ShopAddr": "守山市播磨田町315-5",
+		"longitude": 135.994446,
+		"latitude": 35.068722
+	},
+	{
+		"ID": "6－6",
+		"ShopName": "松研守山店",
+		"ShopAddr": "守山市金森町630",
+		"longitude": 135.983047,
+		"latitude": 35.057583
+	},
+	{
+		"ID": "6－7",
+		"ShopName": "一般財団法人守山野洲市民交流プラザRiseville都賀山",
+		"ShopAddr": "守山市浮気町300-24",
+		"longitude": 135.997681,
+		"latitude": 35.050266
+	},
+	{
+		"ID": "7－1",
+		"ShopName": "カレーハウスCoCo壱番屋栗東インター店",
+		"ShopAddr": "栗東市出庭536",
+		"longitude": 136.005676,
+		"latitude": 35.035385
+	},
+	{
+		"ID": "9－1",
+		"ShopName": "Wシークレット",
+		"ShopAddr": "野洲市北野1-9-18チアーハウス3F-2",
+		"longitude": 136.022476,
+		"latitude": 35.069233
+	},
+	{
+		"ID": "8－1",
+		"ShopName": "一休",
+		"ShopAddr": "甲賀市甲賀町小佐治3016-3",
+		"longitude": 136.210556,
+		"latitude": 34.935104
+	},
+	{
+		"ID": "8－2",
+		"ShopName": "近江スエヒロダイニングTheBeef",
+		"ShopAddr": "甲賀市土山町南土山宇尾巻1122-28新名神高速道路土山サービスエリア内",
+		"longitude": 136.291656,
+		"latitude": 34.925201
+	},
+	{
+		"ID": "8－3",
+		"ShopName": "SORA",
+		"ShopAddr": "甲賀市信楽町中野595-1",
+		"longitude": 136.017273,
+		"latitude": 34.862637
+	},
+	{
+		"ID": "8－4",
+		"ShopName": "湖南飯店",
+		"ShopAddr": "甲賀市水口町北泉1-78",
+		"longitude": 136.146469,
+		"latitude": 34.984867
+	},
+	{
+		"ID": "8－5",
+		"ShopName": "備長扇屋甲賀水口店",
+		"ShopAddr": "甲賀市水口町東名坂283",
+		"longitude": 136.166336,
+		"latitude": 34.977997
+	},
+	{
+		"ID": "8－6",
+		"ShopName": "魚兵楼",
+		"ShopAddr": "甲賀市水口町本町2-5-17",
+		"longitude": 136.174606,
+		"latitude": 34.968998
+	},
+	{
+		"ID": "10－1",
+		"ShopName": "寿司バルたから船イオンタウン湖南本店",
+		"ShopAddr": "湖南市岩根4580",
+		"longitude": 136.103195,
+		"latitude": 35.009346
+	},
+	{
+		"ID": "10－2",
+		"ShopName": "おばんざいなかまつ",
+		"ShopAddr": "湖南市水戸町22-3",
+		"longitude": 136.120987,
+		"latitude": 35.008892
+	},
+	{
+		"ID": "10－3",
+		"ShopName": "やまりゅう",
+		"ShopAddr": "湖南市岩根中央2-20",
+		"longitude": 136.117676,
+		"latitude": 35.001945
+	},
+	{
+		"ID": "10－4",
+		"ShopName": "湖南市魅力発信拠点施設HAT",
+		"ShopAddr": "湖南市岩根4529-1",
+		"longitude": 136.103195,
+		"latitude": 35.009346
+	},
+	{
+		"ID": "10－5",
+		"ShopName": "和食さと三雲店",
+		"ShopAddr": "湖南市三雲133-1",
+		"longitude": 136.115143,
+		"latitude": 34.984249
+	},
+	{
+		"ID": "10－6",
+		"ShopName": "天然酵母パンメイアンドさつき",
+		"ShopAddr": "湖南市下田2744-21",
+		"longitude": 136.131317,
+		"latitude": 35.019241
+	},
+	{
+		"ID": "10－7",
+		"ShopName": "サガミ甲西店",
+		"ShopAddr": "湖南市平松北2-7",
+		"longitude": 136.081512,
+		"latitude": 35.003876
+	},
+	{
+		"ID": "10－8",
+		"ShopName": "洋風割烹松井",
+		"ShopAddr": "湖南市石部西1-1-32",
+		"longitude": 136.055252,
+		"latitude": 35.013153
+	},
+	{
+		"ID": "10－9",
+		"ShopName": "レストラン旬香",
+		"ShopAddr": "湖南市岩根中央1-33",
+		"longitude": 136.118103,
+		"latitude": 35.000648
+	},
+	{
+		"ID": "4－1",
+		"ShopName": "だもん亭",
+		"ShopAddr": "近江八幡市新町4-10",
+		"longitude": 136.090866,
+		"latitude": 35.136513
+	},
+	{
+		"ID": "4－2",
+		"ShopName": "近江焼肉ホルモンすだく近江八幡駅前店",
+		"ShopAddr": "近江八幡市鷹飼町572Emill近江八幡壱番館1F",
+		"longitude": 136.1017,
+		"latitude": 35.122707
+	},
+	{
+		"ID": "4－3",
+		"ShopName": "カレーハウスCoCo壱番屋近江八幡サウスモール店",
+		"ShopAddr": "近江八幡市上田町1278-3",
+		"longitude": 136.108246,
+		"latitude": 35.116196
+	},
+	{
+		"ID": "12－1",
+		"ShopName": "日本料理魚繁大王殿",
+		"ShopAddr": "東近江市小脇町2321",
+		"longitude": 136.181763,
+		"latitude": 35.108109
+	},
+	{
+		"ID": "12－2",
+		"ShopName": "ABARIS",
+		"ShopAddr": "東近江市躰光寺町428-3",
+		"longitude": 136.16066,
+		"latitude": 35.185711
+	},
+	{
+		"ID": "12－3",
+		"ShopName": "カレーハウスCoCo壱番屋八日市春日町店",
+		"ShopAddr": "東近江市春日町3-2",
+		"longitude": 136.208038,
+		"latitude": 35.106632
+	},
+	{
+		"ID": "12－4",
+		"ShopName": "カレーハウスCoCo壱番屋東近江五個荘店",
+		"ShopAddr": "東近江市五個荘中町131-1",
+		"longitude": 136.197327,
+		"latitude": 35.160522
+	},
+	{
+		"ID": "12－5",
+		"ShopName": "凪晴食堂",
+		"ShopAddr": "東近江市八日市町11-5",
+		"longitude": 136.198502,
+		"latitude": 35.111702
+	},
+	{
+		"ID": "2－1",
+		"ShopName": "カレーハウスCoCo壱番屋彦根中藪店",
+		"ShopAddr": "彦根市中薮町601",
+		"longitude": 136.245178,
+		"latitude": 35.267784
+	},
+	{
+		"ID": "2－2",
+		"ShopName": "や台ずし彦根駅前町",
+		"ShopAddr": "彦根市大東町2-35ビジネスホテル近江1F",
+		"longitude": 136.262146,
+		"latitude": 35.272259
+	},
+	{
+		"ID": "2－3",
+		"ShopName": "銀水",
+		"ShopAddr": "彦根市旭町9-5",
+		"longitude": 136.262451,
+		"latitude": 35.272968
+	},
+	{
+		"ID": "2－4",
+		"ShopName": "居酒屋翠翔彦根本店",
+		"ShopAddr": "彦根市本町1-1-5",
+		"longitude": 136.252563,
+		"latitude": 35.271694
+	},
+	{
+		"ID": "16－1",
+		"ShopName": "株式会社香凛舎",
+		"ShopAddr": "愛知郡愛荘町愛知川40-7",
+		"longitude": 136.214554,
+		"latitude": 35.16935
+	},
+	{
+		"ID": "16－2",
+		"ShopName": "アジアン",
+		"ShopAddr": "愛知郡愛荘町安孫子700-1",
+		"longitude": 136.245117,
+		"latitude": 35.172264
+	},
+	{
+		"ID": "3－1",
+		"ShopName": "神田パーキングエリア下り線",
+		"ShopAddr": "長浜市加田今町字松岡山1-5北陸自動車道神田PA下り線",
+		"longitude": 136.301147,
+		"latitude": 35.353771
+	},
+	{
+		"ID": "3－2",
+		"ShopName": "長浜浪漫ビール",
+		"ShopAddr": "長浜市朝日町14-1",
+		"longitude": 136.267776,
+		"latitude": 35.376667
+	},
+	{
+		"ID": "3－3",
+		"ShopName": "カレーハウスCoCo壱番屋長浜8号バイパス店",
+		"ShopAddr": "長浜市八幡東町83-1",
+		"longitude": 136.284988,
+		"latitude": 35.381699
+	},
+	{
+		"ID": "3－4",
+		"ShopName": "佐吉",
+		"ShopAddr": "長浜市西浅井町菅浦234",
+		"longitude": 136.14624,
+		"latitude": 35.455887
+	},
+	{
+		"ID": "3－5",
+		"ShopName": "居酒屋小間蔵長浜駅前店",
+		"ShopAddr": "長浜市南呉服町9-30ホテルYes長浜駅前館2F",
+		"longitude": 136.265961,
+		"latitude": 35.379852
+	},
+	{
+		"ID": "3－6",
+		"ShopName": "LOCO Kitchen",
+		"ShopAddr": "長浜市北船町3-24",
+		"longitude": 136.266251,
+		"latitude": 35.37896
+	},
+	{
+		"ID": "13－1",
+		"ShopName": "四季彩料理月うさぎ",
+		"ShopAddr": "米原市加勢野519",
+		"longitude": 136.359512,
+		"latitude": 35.369144
+	},
+	{
+		"ID": "13－2",
+		"ShopName": "四季彩工房ゆるり",
+		"ShopAddr": "米原市下多良2-63セリマンション107",
+		"longitude": 136.286285,
+		"latitude": 35.312943
+	},
+	{
+		"ID": "11－1",
+		"ShopName": "近江今津西友本店",
+		"ShopAddr": "高島市今津町住吉2-1-20",
+		"longitude": 136.0327,
+		"latitude": 35.402134
+	},
+	{
+		"ID": "11－2",
+		"ShopName": "CAFE AZZURRA(カフェアズーラ）",
+		"ShopAddr": "高島市安曇川町南古賀3-5",
+		"longitude": 135.99382,
+		"latitude": 35.345558
+	},
+	{
+		"ID": "",
+		"ShopName": "",
+		"ShopAddr": "",
+		"longitude": "",
+		"latitude": ""
+	},
+	{
+		"ID": "",
+		"ShopName": "",
+		"ShopAddr": "",
+		"longitude": "",
+		"latitude": ""
+	}
+]

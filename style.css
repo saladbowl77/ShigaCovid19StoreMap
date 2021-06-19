@@ -1,0 +1,54 @@
+header {width: 90%; height: 60px; background-color: #f8f9fa; border-radius: 35px;}
+header.main {position: fixed; top: 5px; left: 5%; z-index: 1010;}
+header h1 a { font-size: 1.5rem; line-height: 1.5rem; margin: 6px 0 3px 0; text-align: center; font-weight: bold; color: #121212; text-decoration: none;}
+header div {width: 90%; height: 1.3rem; margin: 0 auto; text-align: center;}
+header div a {
+    width: max-content; height: 1.1rem;
+    font-size: 1rem; line-height: 1.1rem; display: inline-block;
+    padding-right: 5px; margin: 5px 5px 5px 0; border-right: 2.5px dotted #878787; color: #686868; text-decoration: underline;
+}
+main,
+main section {width: 100%; height: 100%;}
+
+main#txt {width: calc(100% - 20px); margin: 0 10px;}
+
+header div#spMenu {display: none;}
+
+@media screen and (max-width: 899px) {
+    header {height: 40px; overflow: hidden; transition: ease-in-out .5s; border-radius: 35px;}
+    header.open {height: calc(40px + (20pt * 3) + 5px); transition: ease-in-out .5s; border-radius: 35px;}
+    header #menuLink a {margin-left: 10px; border: none;}
+    header h1 a {width: max-content; display: block; margin: 0 auto;}
+    header div#spMenu {display: block;position: absolute; top: 8.5px; right: 10px; width: 30px; height: 30px;}
+    header div#spMenu span{transition: .4s ease-in; display: block;}
+    header div#spMenu span.spmenuBar {background: #4d4d4d; height: 2px; margin-top: 5px;}
+    header div#spMenu span.spmenuBar:nth-child(1) {width: 20px; transform: rotateY(0deg);}
+    header div#spMenu span.spmenuBar:nth-child(2) {width: 25px; transform: translateX(-5px);}
+    header div#spMenu span.spmenuBar:nth-child(3) {width: 30px; transform: translateX(-10px) rotateY(0deg);}
+    header div#spMenu span.MenuText {font-size: 10px; line-height: 10px; transform: translateX(-20px); letter-spacing: 2pt;}
+    
+    header.open div#spMenu span.spmenuBar:nth-child(1) {width: 30px; transform: translate(-7px, 7px) rotate(-45deg);}
+    header.open div#spMenu span.spmenuBar:nth-child(2) {transform: translateX(10px); opacity: 0;}
+    header.open div#spMenu span.spmenuBar:nth-child(3) {width: 30px; transform: translate(-7px, -7px) rotate(45deg);}
+
+    div#menuLink {
+        width: 100%;
+        height: 300%;
+        padding: 10px 0 10px 0;
+        position: relative;
+    }
+    div#menuLink a {display: block;}
+}
+@media screen and (max-width: 321px) {
+    header h1 a {margin: 0 5px; font-size: 1.3rem;}
+}
+
+div.leaflet-control-zoom.leaflet-bar.leaflet-control {margin-top: 75px;}
+.leaflet-popup-content,
+.leaflet-popup-content a {font-size: 11pt; line-height: 20px;}
+.leaflet-popup-content a:first-of-type {margin-top: 10px;}
+p#attentionMapPin {font-size: 8pt; line-height: 10pt; margin-top: 10px;}
+
+.leaflet-control-attribution.leaflet-control,
+.leaflet-control-attribution.leaflet-control a {font-size: 11px; line-height: 12px;}
+.leaflet-control-attribution.leaflet-control a {display: inline-block;}
