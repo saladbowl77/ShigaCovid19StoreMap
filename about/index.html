@@ -5,8 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>飲食店認証店舗とは - みんなでつくる滋賀県安心・安全店舗認証制度MAP</title>
+    <meta property="og:image" content="/ogimg.png">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="みんなでつくる滋賀県安心・安全店舗認証制度MAP">
+    <meta property="og:description" content="みんなでつくる滋賀県安心・安全店舗認証制度に認証されている店舗のマップです">
+    <meta name="twitter:description" content="みんなでつくる滋賀県安心・安全店舗認証制度に認証されている店舗のマップです">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""/>
     <link rel="stylesheet" href="/simple.css">
     <link rel="stylesheet" href="/style.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T9E193PY6C"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-T9E193PY6C');
+        if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/js/service-worker.js?v2').then(function(registration) {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }).catch(function(err) {
+            console.log('ServiceWorker registration failed: ', err);
+        });
+        }
+    </script>
     <style>
         header {position: static; display: block; margin: 0 auto;}
     </style>
