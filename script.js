@@ -3,7 +3,7 @@ function getJSON() {
     req.onreadystatechange = function() {		  // XMLHttpRequest オブジェクトの状態が変化した際に呼び出されるイベントハンドラ
         if(req.readyState == 4 && req.status == 200){ // サーバーからのレスポンスが完了し、かつ、通信が正常に終了した場合
             var data = JSON.parse(req.responseText);
-            console.log(data);
+            // console.log(data);
 
             var leafletJson = {
                 "type": "FeatureCollection",
@@ -11,11 +11,11 @@ function getJSON() {
             }
 
             for (i=0;i<data.length;i++){
-                console.log(data[i]["ID"])
-                console.log(data[i]["ShopName"])
-                console.log(data[i]["ShopAddr"])
-                console.log(data[i]["longitude"])
-                console.log(data[i]["latitude"])
+                // console.log(data[i]["ID"])
+                // console.log(data[i]["ShopName"])
+                // console.log(data[i]["ShopAddr"])
+                // console.log(data[i]["longitude"])
+                // console.log(data[i]["latitude"])
                 leafletJson["features"].push({
                     "type":"Feature",
                     "geometry":{
@@ -30,7 +30,7 @@ function getJSON() {
                         "latitude":data[i]["latitude"]
                     }})
             }
-            console.log(leafletJson)
+            // console.log(leafletJson)
             mapDraw(leafletJson);
         }
     };
